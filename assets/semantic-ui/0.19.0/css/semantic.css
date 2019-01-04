@@ -1632,7 +1632,7 @@ body > .ui.grid {
      Header
 ---------------*/
 .ui.menu .header.item {
-  background-color: rgba(0, 0, 0, 0.04);
+  //background-color: rgba(0, 0, 0, 0.04);
   margin: 0em;
 }
 .ui.vertical.menu .header.item {
@@ -10057,7 +10057,7 @@ a.ui.teal.label:hover:before {
 ---------------*/
 .ui.accordion .active.title,
 .ui.accordion .accordion .active.title {
-  background-color: rgba(0, 0, 0, 0.1);
+  //background-color: rgba(0, 0, 0, 0.1);
   color: rgba(0, 0, 0, 0.8);
 }
 .ui.accordion .active.title .dropdown.icon,
