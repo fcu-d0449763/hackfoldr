@@ -221,6 +221,9 @@ a, a:link {
   }
 }
 @media screen and (min-width: 1025px) {
+  #sidebar.desktop-collapsed-layout #topbar,#sidebar.desktop-collapsed-layout #toc {
+    display: none;
+  }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/travis\/build\/hackfoldr\/hackfoldr-2\.0\/sass\/global\.sass}line{font-family:\00003134}}
   #sidebar.desktop-expanded-layout {
     left: 0;
