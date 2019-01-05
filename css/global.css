@@ -4,7 +4,7 @@ html {
   font-size: 18px;
   font-family: "Noto Sans", "Noto Sans T Chinese", "微軟正黑體", sans-serif;
   color: #333;
-  background-color: #d0d0d0;
+  background-color: #ffffff;
 }
 @media screen and (max-width: 1024px) {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/travis\/build\/hackfoldr\/hackfoldr-2\.0\/sass\/global\.sass}line{font-family:\000033}}
