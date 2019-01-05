@@ -230,7 +230,7 @@ a, a:link {
   }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/travis\/build\/hackfoldr\/hackfoldr-2\.0\/sass\/global\.sass}line{font-family:\00003136}}
   #sidebar.desktop-collapsed-layout {
-    left: -17rem;
+    left: -18rem;
   }
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/travis\/build\/hackfoldr\/hackfoldr-2\.0\/sass\/global\.sass}line{font-family:\00003140}}
@@ -360,7 +360,7 @@ a, a:link {
   }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/travis\/build\/hackfoldr\/hackfoldr-2\.0\/sass\/global\.sass}line{font-family:\00003219}}
   #wrapper.desktop-collapsed-layout {
-    padding-left: 3rem;
+    padding-left: 1.5rem;
   }
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/travis\/build\/hackfoldr\/hackfoldr-2\.0\/sass\/global\.sass}line{font-family:\00003222}}
